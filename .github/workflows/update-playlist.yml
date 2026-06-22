@@ -1,0 +1,33 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    # Runs every 10 minutes. Adjust the cron as needed — see notes below.
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write   # needed so the workflow can commit back to the repo
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate playlist from sources.json
+        run: python generate_m3u.py json --input sources.json --out playlist.m3u
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "playlist-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add playlist.m3u
+          git diff --cached --quiet || git commit -m "Auto-update playlist.m3u"
+          git push
