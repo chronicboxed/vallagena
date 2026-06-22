@@ -1,9 +1,44 @@
 [
+  #TV Channels
+   {
+    "title": "Jamuna TV)",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Jamuna TV)",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Ekattor TV)",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8",
+    "group": "TV"
+  },
+
+  #Movies
+  
+  {
+    "title": "Bonolota Express",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20909",
+    "group": "Movies"
+  },
+  {
+    "title": "Utshob",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20022",
+    "group": "Movies"
+  },
   {
     "title": "Maa Behen",
     "url": "https://fmftp.net/data/disk-1/movies/bollywood/2026/Maa%20Behen%20(2026)/Maa.Behen.2026.720p.WEBRip.x264.AAC-[YTS.BZ].mp4",
     "group": "Movies",
-    "logo": "https://m.media-amazon.com/images/M/MV5BZGZjMGRjN2QtZWM4Ni00NjVjLWFjZjMtMmJmNjg2ZjQ1ZmZmXkEyXkFqcGc@._V1_.jpg"
+   
+  },
+  #Series
+  {
+    "title": "My Show S01E01 - Pilot",
+    "url": "https://example.com/shows/myshow-s01e01.mp4",
+    "group": "My Show"
   },
   {
     "title": "Sample Show S01E01 - Pilot",
