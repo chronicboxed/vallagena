@@ -11,7 +11,5 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=20909
 https://fmftp.net/api/stream/video/stream?type=movies&id=20022
 #EXTINF:-1 group-title="Movies",Maa Behen
 https://fmftp.net/data/disk-1/movies/bollywood/2026/Maa%20Behen%20(2026)/Maa.Behen.2026.720p.WEBRip.x264.AAC-[YTS.BZ].mp4
-#EXTINF:-1 group-title="My Show",My Show S01E01 - Pilot
-https://example.com/shows/myshow-s01e01.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFcoBJPznKdLmS5-tFKOcbamoQlnF5UPpZU_JYK3qp1WEMLLe51rkXt8&s=10" group-title="Series",Sample Show S01E01 - Pilot
-https://example.com/show-s01e01.mp4
+#EXTINF:-1 group-title="Series",The Watch Project - Made in India A Titan Story
+https://fmftp.net/data/disk-1/tvseries/Indian/Made%20in%20India%20A%20Titan%20Story/s01/Made%20in%20India%20A%20Titan%20Story%202026%20S01e01%20Complete%20Hindi%20ORG%20SouthFtreak.com%20720p%20WEB-DL%20x265%20ESubs.mp4
