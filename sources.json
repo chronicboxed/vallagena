@@ -1,14 +1,14 @@
 [
   {
-    "title": "Sample Movie (2024)",
-    "url": "https://example.com/movie.mp4",
+    "title": "Maa Behen",
+    "url": "https://fmftp.net/data/disk-1/movies/bollywood/2026/Maa%20Behen%20(2026)/Maa.Behen.2026.720p.WEBRip.x264.AAC-[YTS.BZ].mp4",
     "group": "Movies",
-    "logo": "https://example.com/poster.jpg"
+    "logo": "https://m.media-amazon.com/images/M/MV5BZGZjMGRjN2QtZWM4Ni00NjVjLWFjZjMtMmJmNjg2ZjQ1ZmZmXkEyXkFqcGc@._V1_.jpg"
   },
   {
     "title": "Sample Show S01E01 - Pilot",
     "url": "https://example.com/show-s01e01.mp4",
-    "group": "Sample Show",
-    "logo": "https://example.com/poster.jpg"
+    "group": "Series",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFcoBJPznKdLmS5-tFKOcbamoQlnF5UPpZU_JYK3qp1WEMLLe51rkXt8&s=10"
   }
 ]
