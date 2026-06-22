@@ -47,20 +47,40 @@ https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8
 https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
 #EXTINF:-1 group-title="TV",MAX 2
 https://sm-monirul.top/toffee/play/sonymax_2.m3u8
-#EXTINF:-1 group-title="TV",18.& Picture
+#EXTINF:-1 group-title="TV",18 & Picture
 https://sm-monirul.top/toffee/play/andpicture_hd.m3u8
 #EXTINF:-1 group-title="TV",Discovery
 https://sm-monirul.top/toffee/play/discovery_hd.m3u8
 #EXTINF:-1 group-title="TV",Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="TV",Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 group-title="TV",095. GOLDMINES
-http://103.175.73.12:8080/live/53/master.m3u8
-#EXTINF:-1 group-title="TV",096. Goldmines Movies
-http://103.175.73.12:8080/live/51/master.m3u8
-#EXTINF:-1 group-title="TV",MNX-HD
-https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+#EXTINF:-1 group-title="TV",Fussball Tv B
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+#EXTINF:-1 group-title="TV",Zee Bangla
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
+#EXTINF:-1 group-title="TV",Colors Bangla
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
+#EXTINF:-1 group-title="TV",G Series Drama
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="TV",Hindi Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 group-title="TV",Action Hollywood
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="TV",9X Tashan
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 group-title="TV",9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 group-title="TV",9X Jhakaas
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 group-title="TV",Party Universe
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
+#EXTINF:-1 group-title="TV",Party Universe B
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+#EXTINF:-1 group-title="TV",Asian TV
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+#EXTINF:-1 group-title="TV",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1181200.m3u8
+#EXTINF:-1 group-title="TV",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="Movies",Bonolota Express
 https://fmftp.net/api/stream/video/stream?type=movies&id=20909
 #EXTINF:-1 group-title="Movies",Utshob
