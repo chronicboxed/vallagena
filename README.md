@@ -1,4 +1,4 @@
-# My Movie & Series Playlist
+# My TV, Movie & Series Playlist
 
 📺 **Playlist Link:**
 https://is.gd/movisrs
