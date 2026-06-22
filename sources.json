@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Sample Movie (2024)",
+    "url": "https://example.com/movie.mp4",
+    "group": "Movies",
+    "logo": "https://example.com/poster.jpg"
+  },
+  {
+    "title": "Sample Show S01E01 - Pilot",
+    "url": "https://example.com/show-s01e01.mp4",
+    "group": "Sample Show",
+    "logo": "https://example.com/poster.jpg"
+  }
+]
