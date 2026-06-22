@@ -1,119 +1,157 @@
 [
-   {
-  "title": "BTV",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Sangsad",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Jamuna TV",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Channel 24",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Ekattor TV",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Independent TV",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "ATN News",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Banglavision",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Maasranga",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Deepto TV",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Channel i",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "NTV",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "SA TV",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Star News",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Channel 9",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Desh TV",
-  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-  "title": "Jago News 24",
-  "url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8",
-  "group": "TV",
-  "logo": "https://imgur.com/79g2kMA.png"
-},
-{
-    "title": "Jamuna TV",
+  {
+    "title": "BTV",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Jamuna Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8",
     "group": "TV"
   },
   {
-    "title": "Jamuna TV",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+    "title": "Channel 24",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
     "group": "TV"
   },
   {
-    "title": "Ekattor TV",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8",
+    "title": "EKTTOR tv",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "INDEPENDENT TV",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "ATN NEWS",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Banglavison",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Maasranga",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Deepto Tv",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Channel i",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "NTV",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "SA TV",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Star News",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Channel 9",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Ananda TV",
+    "url": "https://sm-monirul.top/toffee/play/anandatv.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "R tv",
+    "url": "http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108833",
+    "group": "TV"
+  },
+  {
+    "title": "Bijoy TV",
+    "url": "https://sm-monirul.top/toffee/play/bijoytv.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Desh TV",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Jago News 24",
+    "url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Bangla TV",
+    "url": "https://sm-monirul.top/toffee/play/bangla_tv.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "T Sports HD",
+    "url": "http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/756462",
+    "group": "TV"
+  },
+  {
+    "title": "Zee Cinema HD",
+    "url": "https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "MAX",
+    "url": "https://sm-monirul.top/toffee/play/sony_max_hd.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "MAX 2",
+    "url": "https://sm-monirul.top/toffee/play/sonymax_2.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "18.& Picture",
+    "url": "https://sm-monirul.top/toffee/play/andpicture_hd.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Discovery",
+    "url": "https://sm-monirul.top/toffee/play/discovery_hd.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Zoom",
+    "url": "https://d2esfk1pb9cdob.cloudfront.net/master.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Zee Action",
+    "url": "http://103.175.73.12:8080/live/270/270_0.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "095. GOLDMINES",
+    "url": "http://103.175.73.12:8080/live/53/master.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "096. Goldmines Movies",
+    "url": "http://103.175.73.12:8080/live/51/master.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "MNX-HD",
+    "url": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8",
     "group": "TV"
   },
   {
