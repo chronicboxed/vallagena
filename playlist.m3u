@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGZjMGRjN2QtZWM4Ni00NjVjLWFjZjMtMmJmNjg2ZjQ1ZmZmXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Maa Behen
+https://fmftp.net/data/disk-1/movies/bollywood/2026/Maa%20Behen%20(2026)/Maa.Behen.2026.720p.WEBRip.x264.AAC-[YTS.BZ].mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFcoBJPznKdLmS5-tFKOcbamoQlnF5UPpZU_JYK3qp1WEMLLe51rkXt8&s=10" group-title="Series",Sample Show S01E01 - Pilot
+https://example.com/show-s01e01.mp4
