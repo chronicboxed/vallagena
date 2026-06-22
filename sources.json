@@ -120,7 +120,7 @@
     "group": "TV"
   },
   {
-    "title": "18.& Picture",
+    "title": "18 & Picture",
     "url": "https://sm-monirul.top/toffee/play/andpicture_hd.m3u8",
     "group": "TV"
   },
@@ -135,23 +135,73 @@
     "group": "TV"
   },
   {
-    "title": "Zee Action",
-    "url": "http://103.175.73.12:8080/live/270/270_0.m3u8",
+    "title": "Fussball Tv B",
+    "url": "http://starhub.pro/live/farhat-3379/67897-913379/745269.ts",
     "group": "TV"
   },
   {
-    "title": "095. GOLDMINES",
-    "url": "http://103.175.73.12:8080/live/53/master.m3u8",
+    "title": "Zee Bangla",
+    "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts",
     "group": "TV"
   },
   {
-    "title": "096. Goldmines Movies",
-    "url": "http://103.175.73.12:8080/live/51/master.m3u8",
+    "title": "Colors Bangla",
+    "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts",
     "group": "TV"
   },
   {
-    "title": "MNX-HD",
-    "url": "https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8",
+    "title": "G Series Drama",
+    "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Hindi Classic 24",
+    "url": "https://vods2.aynaott.com/hindimovies/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Action Hollywood",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "9X Tashan",
+    "url": "https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "9X Jalwa",
+    "url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "9X Jhakaas",
+    "url": "https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Party Universe",
+    "url": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Party Universe B",
+    "url": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Asian TV",
+    "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "Bangla Vision",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1181200.m3u8",
+    "group": "TV"
+  },
+  {
+    "title": "BTV",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
     "group": "TV"
   },
   {
