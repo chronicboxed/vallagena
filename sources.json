@@ -1,5 +1,4 @@
 [
-  #TV Channels
    {
     "title": "Jamuna TV)",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8",
@@ -16,7 +15,7 @@
     "group": "TV"
   },
 
-  #Movies
+ 
   
   {
     "title": "Bonolota Express",
@@ -34,7 +33,7 @@
     "group": "Movies",
    
   },
-  #Series
+
   {
     "title": "My Show S01E01 - Pilot",
     "url": "https://example.com/shows/myshow-s01e01.mp4",
