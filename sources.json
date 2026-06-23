@@ -5,16 +5,6 @@
     "group": "TV"
   },
   {
-    "title": "Somoy TV",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
-    "group": "TV"
-  },
-  {
-    "title": "Caze Tv",
-    "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
-    "group": "TV"
-  },
-  {
     "title": "Jamuna Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8",
     "group": "TV"
