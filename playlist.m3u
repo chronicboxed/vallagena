@@ -85,9 +85,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 https://fmftp.net/api/stream/video/stream?type=movies&id=20909
 #EXTINF:-1 group-title="Movies",Utshob
 https://fmftp.net/api/stream/video/stream?type=movies&id=20022
+#EXTINF:-1 group-title="Movies",Interstellar
+https://fmftp.net/data/disk-1/movies/hollywood/best/Interstellar%20(2014)/Interstellar.2014.2014.1080p.BluRay.x264.YIFY.mp4
 #EXTINF:-1 group-title="Movies",Dhurandhar The Revenge
 https://fmftp.net/data/disk-1/movies/bollywood/2026/Dhurandhar%20The%20Revenge%20(2026)/Dhurandhar%20The%20Revenge.mp4
 #EXTINF:-1 group-title="Movies",Maa Behen
 https://fmftp.net/data/disk-1/movies/bollywood/2026/Maa%20Behen%20(2026)/Maa.Behen.2026.720p.WEBRip.x264.AAC-[YTS.BZ].mp4
+#EXTINF:-1 group-title="Series",HOTD S3E1
+https://movie.ctgfun.com/disk9/TV%20SERIES/House%20of%20the%20Dragon/House.of.the.Dragon.S03.1080p.WEB-DL.x264%20%5BDDN%5D/House.of.the.Dragon.S03E01.Salt.and.Sea.Fire.and.Blood.1080p.WEB-DL.x264%20%5bDDN%5d.mkv
 #EXTINF:-1 group-title="Series",The Watch Project - Made in India A Titan Story
 https://fmftp.net/data/disk-1/tvseries/Indian/Made%20in%20India%20A%20Titan%20Story/s01/Made%20in%20India%20A%20Titan%20Story%202026%20S01e01%20Complete%20Hindi%20ORG%20SouthFtreak.com%20720p%20WEB-DL%20x265%20ESubs.mp4
