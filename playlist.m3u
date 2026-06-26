@@ -87,6 +87,12 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=20909
 https://fmftp.net/api/stream/video/stream?type=movies&id=20022
 #EXTINF:-1 group-title="Movies",Interstellar
 https://fmftp.net/data/disk-1/movies/hollywood/best/Interstellar%20(2014)/Interstellar.2014.2014.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 group-title="Movies",The Green Mile
+http://103.234.200.248/Data/movies/Imdb-Top-250/The%20Green%20Mile%20(1999)/The.Green.Mile.1999.1080p.BrRip.x264.YIFY.mp4
+#EXTINF:-1 group-title="Movies",A Separation
+http://103.234.200.248/Data/movies/Imdb-Top-250/A%20Separation%20(2011)/A.Separation.2011.1080p.BluRay.x264-[YTS.AM].mp4
+#EXTINF:-1 group-title="Movies",Finding Nemo
+http://103.234.200.248/Data/movies/Imdb-Top-250/Finding%20Nemo%20(2003)/Finding.Nemo.2003.1080p.BluRay.x264.YIFY.mp4
 #EXTINF:-1 group-title="Movies",Dhurandhar The Revenge
 https://fmftp.net/data/disk-1/movies/bollywood/2026/Dhurandhar%20The%20Revenge%20(2026)/Dhurandhar%20The%20Revenge.mp4
 #EXTINF:-1 group-title="Movies",Maa Behen
